@@ -1,5 +1,5 @@
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dein-github-username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dnotshrimps&show_icons=true&theme=dark)
 
 - 👋 Hi, I’m @notshrimps
 - 👀 I’m interested in coding

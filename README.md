@@ -24,3 +24,6 @@
 - 📫 How to reach me discord:skeptic
 
 
+## <span style="color: #FFD700;">Spotify Player</span>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=letsphilll17&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>

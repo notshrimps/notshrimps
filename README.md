@@ -7,7 +7,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notshrimps&layout=compact&theme=dark&title_color=32CD32&text_color=FFFFFF)
 
   ## <span style="color: #32CD32;">Spotify Player</span>
-  ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=letsphill17&cover_image=true&theme=default&bar_color=32CD32&bar_color_cover=true)
+  ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=letsphilll17&cover_image=true&theme=default&bar_color=32CD32&bar_color_cover=true)
 
 </div>
 

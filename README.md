@@ -1,7 +1,5 @@
  ## <span style="color: #FFD700;">GitHub Stats</span>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notshrimps&show_icons=true&theme=dark&title_color=FFD700&text_color=32CD32&icon_color=32CD32&bg_color=0d1117)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notshrimps&layout=compact&theme=dark&title_color=FFD700&text_color=32CD32&bg_color=0d1117)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notshrimps&show_icons=true&theme=dark&title_color=FFD700&text_color=32CD32&icon_color=32CD32&bg_color=0d1117) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notshrimps&layout=compact&theme=dark&title_color=FFD700&text_color=32CD32&bg_color=0d1117)
 
 
 

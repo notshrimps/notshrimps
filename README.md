@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning c++
 
 
-contact me:
+
+## <span style="color: #00FF00;">CONTACT ME:</span>
 
 <a href="https://discordapp.com/users/625241249988739082">
   <img src="https://github.com/notshrimps/assets-for-github/blob/main/68747470733a2f2f7777772e6672656569636f6e73706e672e636f6d2f75706c6f6164732f646973636f72642d626c61636b2d69636f6e2d312e706e67.png" alt="Discord" width="50" />

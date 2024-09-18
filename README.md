@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @notshrimps
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++
-- 📫 How to reach me discord:skeptic
+- 📫 How to reach me [![Discord](https://cdn.icon-icons.com/icons2/2248/PNG/512/discord_icon_137098.png)](https://discordapp.com/users/625241249988739082)
 
 
 ## <span style="color: #FFD700;">Spotify Player</span>

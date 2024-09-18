@@ -1,3 +1,4 @@
+## <span style="color: #00FF00;">ABOUT ME:</span>
 - 👋 Hi, I’m @notshrimps
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c++

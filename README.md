@@ -5,7 +5,7 @@
 
 
 
-## <span style="color: ### 🟢 CONTACT ME:
+## <span style="color: ### 🟢;">CONTACT ME:</span>
 
 
 <a href="https://discordapp.com/users/625241249988739082">

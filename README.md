@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:111111&text=SKEPTIC&fontColor=39FF14&fontSize=80"/>
-
 <img src="https://lanyard.cnrad.dev/api/625241249988739082?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px"/>
 
 <br><br>
